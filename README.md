@@ -1,1 +1,2 @@
 Адаптація odoo
+version
