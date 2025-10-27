@@ -1,0 +1,15 @@
+{
+    'name': 'Custom Amount to Text /SVA',
+    'version': '18.0.1.0.0',
+    'category': 'Accounting',
+    'summary': 'Fix amount_to_text for proper multilingual support (Ukrainian,  etc.)',
+    'description': 'Fix amount_to_text for proper multilingual support (Ukrainian,  etc.)',
+    'author': 'SVA',
+    'support': 'sva.fn@ukr.net',
+    'website': 'https://nadruk.com.ua',
+    'license': 'LGPL-3',
+    'depends': ['base', 'account'],
+    'data': [],
+    'installable': True,
+    'application': False,
+}
