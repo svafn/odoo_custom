@@ -1,0 +1,27 @@
+*.py[cod]
+# C extensions
+*.so
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+.installed.cfg
+.env
+__pycache__
+*.mo
+*.class
+*~
+*~.*
+*.o
+*.7z
+*.zip
+*.gz
+*.tar
+*.tgz
+*.pdf
+*_min.css
+*.log
+*.dump
+
